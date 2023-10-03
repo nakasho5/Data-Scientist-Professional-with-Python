@@ -9,4 +9,4 @@ As you progress, you’ll work through interactive exercises using real-world da
 Complete this track to gain the knowledge and experience necessary to confidently pass the Data Scientist Professional with Python certification and thrive as a data scientist.
 
 # Certificate
-![]()
+![](https://github.com/nakasho5/Data-Scientist-Professional-with-Python/blob/main/Data%20Scientist%20Professional%20with%20Python%20Certificate.png)
